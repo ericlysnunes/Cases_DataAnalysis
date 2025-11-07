@@ -188,7 +188,7 @@ Results
 
 ![image](https://github.com/gaberibr/Cases_DataAnalysis/assets/99212007/122b4798-5229-4fef-a476-517d46b7ec17)
 
-projects
+Projects
 
 Results
 - 1
